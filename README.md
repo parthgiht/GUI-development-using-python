@@ -1,3 +1,2 @@
 # GUI-development-using-python
-Applied OOPs concept on NLP tasks.
-My first project (To get idea).
+I have applied OOPs concept on NLP tasks using python.
