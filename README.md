@@ -14,6 +14,10 @@ In this project, I have created an Application named (TextSense App).
 TextSense is a Python-based GUI application that makes it easy to analyze and understand text using advance language processing techniques. 
 It uses Object-Oriented-Programming (OOPs) to provide a smooth and user-friendly experience.
 
+# API-Key
+
+I have used (Hugging Face) API-key and models to process and getting result from NLP tasks like Sentiment analysis, Name entity recognition, emotion prediction.
+
 # Key Features
 1. User-Friendly Interfaces :- The application has a simple and easy-to-use graphical interface for interacting with its features.
 
