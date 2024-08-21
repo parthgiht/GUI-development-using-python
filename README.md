@@ -1,7 +1,7 @@
 # GUI-development-using-python
-In this project, I have created an Application named (TextSense). 
+In this project, I have created an Application named (TextSense App). 
 
--> Application Name :- TextSense 
+-> Application Name :- TextSense App 
 
 -> Application based :- OOPs concepts on NLP tasks
 
