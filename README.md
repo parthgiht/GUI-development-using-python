@@ -3,7 +3,7 @@ In this project, I have created an Application named (TextSense App).
 
 -> Application Name :- TextSense App 
 
--> Application based :- OOPs concepts on NLP tasks
+-> Application based :- Using OOPs concepts on NLP tasks
 
 -> NLP tasks :-  Sentiment analysis, Name entity recognition, Emotion prediction. 
 
