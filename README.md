@@ -1,22 +1,30 @@
 # GUI-development-using-python
-In this project, I have created an Application named (TextSense App). 
+In this project, I have created an Application named (TextSense App)---[NLP based Application]. 
 
 -> Application Name :- TextSense App 
 
--> Application based :- Using OOPs concepts on NLP tasks
+-> Application based :- Using OOPs concepts on NLP tasks.
 
--> NLP tasks :-  Sentiment analysis, Name entity recognition, Emotion prediction. 
+-> NLP tasks like :-  Sentiment analysis, Name entity recognition, Emotion prediction. 
 
-# Detail explanation about this project :-
+# Let's understand project :-
 
-# TextSense
+# TextSense App
 
-TextSense is a Python-based GUI application that makes it easy to analyze and understand text using advance language processing techniques. 
+TextSense application is a Python-based GUI application that makes it easy to analyze and understand text using advance language processing techniques. 
 It uses Object-Oriented-Programming (OOPs) to provide a smooth and user-friendly experience.
 
-# API-Key
+# API-Key [ Hugging Face ]
 
-I have used (Hugging Face) API-key and models to process and getting result from NLP tasks like Sentiment analysis, Name entity recognition, emotion prediction.
+I have used [ Hugging Face ] API-key and models to process and getting result from NLP tasks like Sentiment analysis, Name entity recognition, emotion prediction.
+
+# Models I have used [ Hugging Face ]
+
+1. Sentiment Analysis :- [ distilbert-base-uncased-finetuned-sst-2-english ]
+
+2. Name Entity Recognition :- [ bert-large-cased-finetuned-conll03-english ]
+
+3. Emotion Prediction :- [ nateraw/bert-base-uncased-emotion ]
 
 # Key Features
 1. User-Friendly Interfaces :- The application has a simple and easy-to-use graphical interface for interacting with its features.
